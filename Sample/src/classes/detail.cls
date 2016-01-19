@@ -8,4 +8,5 @@ public class detail {
     i=[select Product_Price__c, Quantity__c from Product__c where Product__c.name=:'crocin'];
     op=''+i;
     }
+    //child
 }

@@ -5,6 +5,7 @@ public class ContactSearch {
            /* for(integer i=0;i<c.size();i++) {
                 System.debug('test '+c.get(i));
             }*/
+            //comments march release 2
         return c;
     }
 }
